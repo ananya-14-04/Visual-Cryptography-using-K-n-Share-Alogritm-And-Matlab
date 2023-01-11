@@ -8,10 +8,10 @@ In this project we take any image which is to be shared secretly. This image is 
 
 1. Matlab 2022a or later
 
-### Using Matlab 2015a <a name='using-matlab-2015a'></a>
+### Using Matlab 2022a <a name='using-matlab-2022a'></a>
 <pre>
 1. Copy all matlab files in a folder to your computer
-2. Open Matlab 2015a
+2. Open Matlab 2022a
 3. Change matlab's current path to the folder  
 4. Open matlab and using the matlab app designer open the file encryptgui.m and run it to encrypt the image
 5. follow the UI 
